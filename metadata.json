@@ -1,0 +1,8 @@
+{
+  "name": "SI-ITING - Sistem Informasi Bezetting ASN",
+  "description": "Sistem Informasi Bezetting Pegawai ASN Bagian Organisasi Setda Kabupaten Bandung Barat untuk pemetaan formasi, analisis beban kerja, dan rekomendasi redistribusi staf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
